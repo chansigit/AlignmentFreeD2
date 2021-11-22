@@ -12,8 +12,8 @@ Then users can compute any two sequence's similarity using the probability model
 
 
 # ToDo:
-[ ] Design a probablistic similarity evaluation base class
-[ ] Design a D2*, D2S class based on the base class
-[ ] Implement the classes above
-[ ] Design higher-order Markov sequence models 
-[ ] Implement Markov chain model estimation and evaluation
+- [ ] Design a probablistic similarity evaluation base class
+- [ ] Design a D2*, D2S class based on the base class
+- [ ] Implement the classes above
+- [ ] Design higher-order Markov sequence models 
+- [ ] Implement Markov chain model estimation and evaluation with pomegranate
